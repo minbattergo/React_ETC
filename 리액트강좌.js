@@ -19,3 +19,8 @@ http://cafe.naver.com/ng2spring
 
  - React Elements => DOM과 연결된 javascript 객체를 다룬다.
  ... : 나머지 연산자(java script), spread 연산자
+
+클래스 설계원칙 : S O L I D 5가지 원칙
+
+https://chrome.google.com/webstore/detail/react-developer-tools/
+      fmkadmapgofadopljbjfkapdkoienihi?hl=ko
