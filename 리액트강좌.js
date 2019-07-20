@@ -1,3 +1,5 @@
+===== React 2일차 =====
+
 교육사이트
 http://eastflag.co.kr/
 
@@ -15,7 +17,7 @@ http://cafe.naver.com/ng2spring
 
  - 비쥬얼 스튜디어 코드 (무료)
  - 웹스톰  (https://www.jetbrains.com/ -> Tools -> WebStrom) 
-   http://edu.javabrain.kr:8750
+   라이센스 : http://edu.javabrain.kr:8750
 
  - React Elements => DOM과 연결된 javascript 객체를 다룬다.
  ... : 나머지 연산자(java script), spread 연산자
