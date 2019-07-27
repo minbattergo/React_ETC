@@ -35,6 +35,7 @@ cheapter: git
   
 git config –global user.name “ssun”
 git config –global user.email “pros5018@nate.com”
+git push origin master
 
 git remote -v : 원격 저장소 view
 git clone : 원격의 있는걸 통째로 로컬로 복사(로컬에 없는상태)
